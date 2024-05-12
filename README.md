@@ -14,3 +14,6 @@ CurrencyXchange is a web application built with HTML, CSS, and JavaScript that a
 - CSS
 - JavaScript
 - API
+
+## Preview
+https://gariiiiii.github.io/CurrencyXchange/
